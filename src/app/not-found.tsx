@@ -1,0 +1,1 @@
+export default function NotFound(){return (<div className="py-24 text-center"><h1 className="text-3xl font-extrabold">404 — Сторінку не знайдено</h1><p className="mt-2 text-gray-700">Поверніться на головну або скористайтесь навігацією.</p></div>)}
